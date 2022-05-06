@@ -5,7 +5,7 @@ I am originally from Argentina but I'm living in Ireland 🌎. I'm a junior deve
 
 #### Connect with me
 
-- [My LinkedIn](https://www.linkedin.com/in/victoria-parker-web-developer/) {:target="_blank"}
-- [My website: victoriaparker.dev](https://victoriaparker.dev/) {:target="_blank"}
+- [My LinkedIn](https://www.linkedin.com/in/victoria-parker-web-developer/)
+- [My website: victoriaparker.dev](https://victoriaparker.dev/)
 
 
