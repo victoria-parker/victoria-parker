@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victoria Parker</h1>
 <h3 align="center">A passionate full stack software engineer from Argentina living in Barcelona</h3>
 
-- 👨‍💻 All of my projects are available at [victoriaparker.dev](victoriaparker.dev)
+- 👨‍💻 Check my portfolio at [victoriaparker.dev](http://victoriaparker.dev/)
 
 - 📫 How to reach me **hello@victoriaparker.dev**
 
