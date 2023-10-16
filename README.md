@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Victoria</h1>
 <h3 align="center">A passionate backend developer living in Barcelona</h3>
 
+- 📫 How to reach me **hello@victoriaparker.dev**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
